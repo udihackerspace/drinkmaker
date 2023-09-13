@@ -19,5 +19,7 @@ Porta do LED indicador de funcionamento da máquina: 10
 
 ![esquematic](https://github.com/udihackerspace/drinkmaker/assets/141279176/05a18a4f-970d-48c0-b73a-654e63383fad)
 
+![Imagem do WhatsApp de 2023-09-12 à(s) 12 04 02](https://github.com/udihackerspace/drinkmaker/assets/141279176/f902ff2a-230a-4e81-a108-794a57644f10)
+
 
 
