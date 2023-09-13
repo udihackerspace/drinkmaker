@@ -16,9 +16,7 @@ Portas dos botões da "Interface com o Usuário": 6  = UP, 7 = DOWN, 8 = CANCEL,
 Portas do display I2C: 18 e 19
 Porta do LED indicador de funcionamento da máquina: 10
 
-![Imagem do WhatsApp de 2023-09-12 à(s) 11 58 47](https://github.com/udihackerspace/drinkmaker/assets/141279176/2f23b3e8-2b0e-458e-8c9e-46ab1d1c2e1a)
-
-![esquematic](https://github.com/udihackerspace/drinkmaker/assets/141279176/05a18a4f-970d-48c0-b73a-654e63383fad)
+![esquematic](https://github.com/udihackerspace/drinkmaker/assets/141279176/424b3368-f7cd-4ce1-bfea-0b34cb1bc9f6)
 
 ![Imagem do WhatsApp de 2023-09-12 à(s) 12 04 02](https://github.com/udihackerspace/drinkmaker/assets/141279176/f902ff2a-230a-4e81-a108-794a57644f10)
 
